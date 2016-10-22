@@ -5,9 +5,9 @@
 % EGFR-EGFP and rab5-mRFP. The cell was stimulated with EGF immediately
 % prior to imaging.
 %
-% REMARKS: Please refer to README.txt and the manuscript by Pike et al. for
+% REMARKS: Please refer to README.pdf and the manuscript by Pike et al. for
 %          more details. Ensure you have all the necessary dependencies
-%          correctly configured (see REEDME.txt) and that the ImageJ and
+%          correctly configured (see REEDME.pdf) and that the ImageJ and
 %          MIJ paths are correctly specified (see below).
 %
 % created by: Jeremy Pike
