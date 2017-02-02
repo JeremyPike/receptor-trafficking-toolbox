@@ -5,9 +5,18 @@
 % EGFR-EGFP and rab5-mRFP. The cell was stimulated with EGF immediately
 % prior to imaging.
 %
-% REMARKS: Please refer to README.pdf and the manuscript by Pike et al. for
-%          more details. Ensure you have all the necessary dependencies
-%          correctly configured (see REEDME.pdf) and that the ImageJ and
+% REMARKS: Please refer to README.pdf and the following article for
+%          more details;
+%
+%          J.A. Pike et al. Quantifying Receptor Trafficking and 
+%          Colocalization with Confocal Microscopy. Methods (2017),
+%          http://dx.doi.org/10.1016/j.ymeth.2017.01.005. 
+%
+%          Please cite this article if you use any of the scripts in this 
+%          toolbox.
+%
+%          Ensure you have all the necessary dependencies
+%          correctly configured (see README.pdf) and that the ImageJ and
 %          MIJ paths are correctly specified (see below).
 %
 % created by: Jeremy Pike
